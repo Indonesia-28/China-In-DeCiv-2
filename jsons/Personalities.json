@@ -1,0 +1,32 @@
+[
+ {
+    "name": "Wu Zetian",
+    "production": 5,
+    "food": 8,
+    "gold": 5,
+    "science": 8,
+    "culture": 6,
+    "happiness": 6,
+    "faith": 5,
+    "military": 4,
+    "aggressive": 3,
+    "declareWar": 4,
+    "commerce": 6,
+    "diplomacy": 7,
+    "loyal": 4,
+    "expansion": 6,
+    "denounceWillingness": 7,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 6,
+      "Honor": 7,
+      "Commerce": 5,
+      "Patronage": 7,
+      "Piety": 6,
+      "Rationalism": 9,
+      "Freedom": 7,
+      "Autocracy": 7,
+      "Order": 7
+    }
+ }
+]
